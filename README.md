@@ -57,7 +57,7 @@ that is amenable for a training setup.
  
  ## Images for the Products of the Store used in Training
  
- The images are [here](https://github.com/perusio/cg-training-images).
+ The images are here [http://git.io/cg-training-images](https://github.com/perusio/cg-training-images).
  
  ## Developers Training Module
  
