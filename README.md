@@ -37,7 +37,7 @@ that is amenable for a training setup.
  
  1. Clone the repository:
         
-        git clone 
+        git clone git://github.com/perusio/commerce-kickstart-training-profile.git
         
  2. Remove the profile that comes with `commerce_kickstart`
     under the root of your Drupal (Commerce Kickstart) install at
