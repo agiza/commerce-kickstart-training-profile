@@ -62,7 +62,9 @@ that is amenable for a training setup.
  ## Developers Training Module
  
  For the **developers training** the module that is used is available
- [here](https://github.com/perusio/cg-training).
+ at [http://git.io/cg-training-module](https://github.com/perusio/cg-training).
  
- 
+## Short URL
+
+The short URL for this repository is [http://git.io/cg-training-profile](http://git.io/cg-training-profile).
  
