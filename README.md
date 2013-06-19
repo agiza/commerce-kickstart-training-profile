@@ -55,11 +55,11 @@ that is amenable for a training setup.
     
  4. Done.
  
- ## Images for the Products of the Store used in Training
+## Images for the Products of the Store used in Training
  
  The images are here [http://git.io/cg-training-images](https://github.com/perusio/cg-training-images).
  
- ## Developers Training Code
+## Developers Training Code
  
  For the **developers training** the code that is used is available
  at [http://git.io/cg-training-module](https://github.com/perusio/cg-training).
