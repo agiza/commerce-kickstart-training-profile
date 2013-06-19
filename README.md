@@ -59,9 +59,9 @@ that is amenable for a training setup.
  
  The images are here [http://git.io/cg-training-images](https://github.com/perusio/cg-training-images).
  
- ## Developers Training Module
+ ## Developers Training Code
  
- For the **developers training** the module that is used is available
+ For the **developers training** the code that is used is available
  at [http://git.io/cg-training-module](https://github.com/perusio/cg-training).
  
 ## Short URL
